@@ -51,6 +51,7 @@ geo = None
 geo = gpd.GeoDataFrame(index=[0],columns=['geometry']
 )
 geo['geometry']=poly
+
 # CODE FOR TESTING YOUR SOLUTION
 
 # Check the content of the GeoDataFrame:
