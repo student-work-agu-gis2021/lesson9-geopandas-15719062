@@ -46,7 +46,6 @@ geo=None
 print("Number of rows:", len(geo))
 print(geo.head())
 
-
 # CODE FOR TESTING YOUR SOLUTION
 
 # Check that the output file exists
