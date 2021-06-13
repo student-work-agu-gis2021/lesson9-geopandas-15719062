@@ -39,7 +39,7 @@ fp='Kruger_posts.shp'
 geo.to_file(fp)
 
 # Convert DataFrame into a GeoDataFrame
-geo=None
+
 # CODE FOR TESTING YOUR SOLUTION
 
 # Check the geodataframe head
